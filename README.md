@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phuchautea
-- 👀 I’m interested in PN
-- 🌱 I’m currently learning love PN
+- 👀 I’m interested in Natural
+- 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
