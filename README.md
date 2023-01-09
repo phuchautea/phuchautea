@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @phuchautea</h1>
+<h1>👋 Hi, I’m @phuchau.tea</h1>
 
 <br />
 <p align="center">
