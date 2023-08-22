@@ -8,7 +8,7 @@
 <code><img height="50" alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="50" alt="dotnet" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
 <code><img height="50" alt="sqlserver" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
-<br><br>
+<br>
 <code><img height="50" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="50" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
