@@ -1,7 +1,6 @@
 ## ✨ About me
 
 - 😀 My name is **Hoang Phuc Hau**
-
 - 💬 Ask me about anything [here](https://github.com/phuchautea/phuchautea/issues)
 <br>
 <code><img height="50" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
