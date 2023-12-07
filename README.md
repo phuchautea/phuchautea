@@ -18,8 +18,6 @@
 ## 📊 Github Stats
 ![](https://komarev.com/ghpvc/?username=phuchautea&color=green)
 
-![](https://github-readme-stats.vercel.app/api?username=phuchautea&hide=contribs,prs&theme=vue)
-
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuchautea&theme=vue)
 
