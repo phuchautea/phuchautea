@@ -3,9 +3,13 @@
 - 😀 My name is **Hoang Phuc Hau**
 - 💬 Ask me about anything [here](https://github.com/phuchautea/phuchautea/issues)
 <br>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vuejs,nodejs,dotnet,mysql,html,css,bootstrap">
+
+## 🛠️ Technologies & Tools
+<img src="https://skillicons.dev/icons?i=laravel,php,dotnet,js,vuejs,nodejs,mysql,mongodb,html,css,bootstrap" />
 
 ## 📊 Github Stats
+![](https://img.shields.io/github/stars/phuchautea?style=social)
+<br>
 ![](https://komarev.com/ghpvc/?username=phuchautea&color=green)
 
 ## 💥 Github Streaks 
