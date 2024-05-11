@@ -2,7 +2,6 @@
 
 - 😀 My name is **Hoang Phuc Hau**
 - 💬 Ask me about anything [here](https://github.com/phuchautea/phuchautea/issues)
-<br>
 
 ## 🛠️ Technologies & Tools
 <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,js,vuejs,nodejs,mysql,mongodb,html,css,bootstrap" />
