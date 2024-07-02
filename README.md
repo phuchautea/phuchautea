@@ -12,8 +12,6 @@
 <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,js,vuejs,nodejs,mysql,mongodb,html,css,bootstrap" />
 
 ## 📊 Github Stats
-![](https://img.shields.io/github/stars/phuchautea?style=social)
-<br>
 ![](https://komarev.com/ghpvc/?username=phuchautea&color=green)
 
 ## 💥 Github Streaks 
