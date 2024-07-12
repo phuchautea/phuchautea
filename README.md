@@ -3,11 +3,6 @@
 - 😀 My name is **Hoang Phuc Hau**
 - 💬 Ask me about anything [here](https://github.com/phuchautea/phuchautea/issues)
 
-![](https://raw.githubusercontent.com/phuchautea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phuchautea/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/phuchautea/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phuchautea/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 ## 🛠️ Technologies & Tools
 <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,js,vuejs,nodejs,mysql,mongodb,html,css,bootstrap" />
 
