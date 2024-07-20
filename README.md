@@ -12,9 +12,6 @@
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuchautea&theme=vue)
 
-## 🏆 Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=phuchautea&theme=vue&no-frame=true&column=4&margin-w=15)
-
 
 <!---
 phuchautea/phuchautea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
