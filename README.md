@@ -17,7 +17,7 @@ Hello! I'm a developer who loves working across the stack. I'm passionate about 
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,dotnet,nodejs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,dotnet,nodejs,nestjs" alt="Backend Technologies" />
 </p>
 
 ### Frontend
