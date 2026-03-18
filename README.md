@@ -21,7 +21,7 @@ A passionate Software Engineer based in **Vietnam** 🇻🇳. I focus on buildin
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,js,ts,react,nextjs,vuejs,java,spring,dotnet,mysql,mongodb,redis,supabase,docker,aws,azure,gcp,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=go,dotnet,laravel,php,nodejs,nestjs,js,ts,react,nextjs,vuejs,java,spring,postgresql,mysql,mongodb,redis,supabase,docker,aws,azure,gcp,linux,githubactions" />
 </div>
 
 ---
